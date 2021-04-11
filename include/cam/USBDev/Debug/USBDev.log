@@ -1,0 +1,32 @@
+﻿Build started 2018/1/9 10:01:10.
+     1>Project "H:\Project\USBCapture\SDK\USBDev\USBDev.vcxproj" on node 2 (build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>InitializeBuildStatus:
+         Creating "Debug\USBDev.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /l"0x0409" /nologo /fo"Debug\Resources.res" Resources.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\Build\Debug\USBDev.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"USBDev.def" /MANIFEST:NO /DEBUG /PDB:"H:\Project\USBCapture\SDK\Build\Debug\USBDev.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\Build\Debug\USBDev.lib" /MACHINE:X86 /DLL Debug\Resources.res
+         Debug\Bayer2RGBA.obj
+         Debug\FrameSync.obj
+         Debug\Semaphore_WIN.obj
+         Debug\Threads_WIN.obj
+         Debug\RawStreamParser.obj
+         Debug\USBDev.obj
+         Debug\USBController.obj
+         Debug\USBDevice_Crop.obj
+         Debug\USBDevice_FrameRecv.obj
+         Debug\USBDevice_GetFrame.obj
+         Debug\CyAPI.obj
+         Debug\USBIO_WIN.obj
+         USBDev.vcxproj -> H:\Project\USBCapture\SDK\USBDev\..\Build\Debug\USBDev.dll
+       FinalizeBuildStatus:
+         Deleting file "Debug\USBDev.unsuccessfulbuild".
+         Touching "Debug\USBDev.lastbuildstate".
+     1>Done Building Project "H:\Project\USBCapture\SDK\USBDev\USBDev.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.25

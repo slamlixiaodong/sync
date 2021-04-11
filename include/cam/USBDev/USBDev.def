@@ -1,0 +1,57 @@
+LIBRARY USBDev
+EXPORTS
+	DEV_QueryDevice
+	DEV_OpenDevice
+	DEV_GetDeviceList
+	DEV_CloseDevice
+	DEV_SetDeviceParameter
+	DEV_GetDeviceParameter
+	DEV_GetLastError
+	DEV_GetFrame
+
+	Bayer2RGBA
+	RGBASoftCrop
+	RGBAScale
+	RGBAZoom
+	SaveBMP
+	SaveWBayerBMP
+	LoadBMP
+	LoadVerifyBMP
+	AddVisualBars
+	Bayer2RGB
+	Byte2RGBA
+	RGBA2Y
+	RGBA2Y_RAW
+	SaveRGBBin
+
+	RGBA2Bayer
+
+	Bayer2RGB_Crop
+	Bayer2RGBA_Crop
+	Bayer2RGB_OpenCV
+	Gray2RGBA_Crop
+	RGB2RGBA
+	Bayer2RGBA_OpenCV
+	Bayer2RGB_Split
+
+	CalculateMeanEnergy
+	RGBA2YEnergy
+	SaveRawBayer
+	SaveRawBayerASCII
+
+	AutoWBCalibrate
+	PerformAutoWB
+	DoFlip
+	BayerPixelNormalizeTemplateGen
+	BayerPixelNormalize
+
+	ConvertSaveRawFile
+
+	InitializeStreamParser
+	ParseStream
+	DestroyStreamParser
+
+	ROI8
+	Map8
+	DEV_GetCurrentTime
+	MedianFilter8

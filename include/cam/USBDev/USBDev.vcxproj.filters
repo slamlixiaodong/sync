@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="USBIO">
+      <UniqueIdentifier>{19c38b90-859e-49ba-b626-4664898004a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="USBDevice">
+      <UniqueIdentifier>{c1cf8a5c-02f5-47c2-abe1-765d969c74f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Test">
+      <UniqueIdentifier>{0a33ff67-7490-401a-9fd5-a027e65e6f97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Misc">
+      <UniqueIdentifier>{d5e521c6-a0a0-431b-9538-92d9d3bf92b0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Misc\Semaphore_Linux.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Misc\Semaphore_WIN.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Misc\Threads_Linux.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Misc\Threads_WIN.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Test\main.cpp">
+      <Filter>Test</Filter>
+    </ClCompile>
+    <ClCompile Include="USBDevice\USBDevice_Crop.cpp">
+      <Filter>USBDevice</Filter>
+    </ClCompile>
+    <ClCompile Include="USBDevice\USBDevice_FrameRecv.cpp">
+      <Filter>USBDevice</Filter>
+    </ClCompile>
+    <ClCompile Include="USBDevice\USBDevice_GetFrame.cpp">
+      <Filter>USBDevice</Filter>
+    </ClCompile>
+    <ClCompile Include="USBIO\CyAPI.cpp">
+      <Filter>USBIO</Filter>
+    </ClCompile>
+    <ClCompile Include="USBIO\cyusbd.c">
+      <Filter>USBIO</Filter>
+    </ClCompile>
+    <ClCompile Include="USBIO\libcyusb.c">
+      <Filter>USBIO</Filter>
+    </ClCompile>
+    <ClCompile Include="USBIO\USBIO_Linux.cpp">
+      <Filter>USBIO</Filter>
+    </ClCompile>
+    <ClCompile Include="USBIO\USBIO_WIN.cpp">
+      <Filter>USBIO</Filter>
+    </ClCompile>
+    <ClCompile Include="Bayer2RGBA.cpp" />
+    <ClCompile Include="FrameSync.cpp" />
+    <ClCompile Include="RawStreamParser.cpp" />
+    <ClCompile Include="USBController.cpp" />
+    <ClCompile Include="USBDev.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="USBIO\CyAPI.h">
+      <Filter>USBIO</Filter>
+    </ClInclude>
+    <ClInclude Include="USBIO\cyioctl.h">
+      <Filter>USBIO</Filter>
+    </ClInclude>
+    <ClInclude Include="USBIO\cyusb.h">
+      <Filter>USBIO</Filter>
+    </ClInclude>
+    <ClInclude Include="USBIO\CyUSB30_def.h">
+      <Filter>USBIO</Filter>
+    </ClInclude>
+    <ClInclude Include="USBIO\usb100.h">
+      <Filter>USBIO</Filter>
+    </ClInclude>
+    <ClInclude Include="USBIO\usb200.h">
+      <Filter>USBIO</Filter>
+    </ClInclude>
+    <ClInclude Include="USBIO\UsbdStatus.h">
+      <Filter>USBIO</Filter>
+    </ClInclude>
+    <ClInclude Include="USBIO\USBIO.h">
+      <Filter>USBIO</Filter>
+    </ClInclude>
+    <ClInclude Include="Bayer2RGBA.h" />
+    <ClInclude Include="CommonTypes.h" />
+    <ClInclude Include="DEVDEF.h" />
+    <ClInclude Include="FrameSync.h" />
+    <ClInclude Include="RawStreamParser.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="USBController.h" />
+    <ClInclude Include="USBDev.h" />
+    <ClInclude Include="Misc\USBDev_Threads.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Misc\USBDev_Semaphore.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resources.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="USBDev.def" />
+  </ItemGroup>
+</Project>

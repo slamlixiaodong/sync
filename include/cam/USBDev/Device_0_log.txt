@@ -1,0 +1,731 @@
+[0.075000]  Line 429: Trying to enter rescue mode.
+[0.080000]  Line 444: Begin check for device hardware operationality.
+[0.080000]  Line 462: Device hardware verified.
+[1.272000]  Line 5761: Device authorized. Certificate is valid.
+[1.379000]  Line 528: Device status: 1, InitBegin, Code: 00000000.
+[1.379000]  Line 528: Device status: 25, SIS_ReportStatus0, Code: 00000000.
+[1.379000]  Line 528: Device status: 26, SIS_ReportStatus1, Code: 00000000.
+[1.379000]  Line 528: Device status: 27, SIS_ReportStatus2, Code: 00000000.
+[1.379000]  Line 528: Device status: 28, SIS_ReportStatus3, Code: 00000000.
+[1.484000]  Line 528: Device status: 35, SIS_ConfigMT9F002, Code: 00000000.
+[1.484000]  Line 528: Device status: 36, SIS_MT9F002Aligned, Code: 00000000.
+[1.484000]  Line 528: Device status: 5, Finished, Code: 00000000.
+[1.484000]  Line 545: Device initialization end.
+[1.906000]  Begin transfer stream 0.
+[1.926000]  Begin transfer stream 1.
+[1.931000]  Stream 1 Frame info: 780 560
+[1.931000]  Stream 1 get frame time interval: 5 ms
+[1.931000]  End transfer stream 1 success.
+[1.931000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[1.935000]  Begin transfer stream 1.
+[1.938000]  Stream 1 get frame time interval: 3 ms
+[1.938000]  End transfer stream 1 success.
+[1.938000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[1.942000]  Begin transfer stream 1.
+[2.009000]  Stream 1 get frame time interval: 67 ms
+[2.009000]  End transfer stream 1 success.
+[2.009000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[2.014000]  Begin transfer stream 1.
+[2.045000]  Stream 0 Frame info: 4672 3352
+[2.045000]  Stream 0 get frame time interval: 139 ms
+[2.045000]  End transfer stream 0 success.
+[2.045000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[2.085000]  Stream 1 get frame time interval: 71 ms
+[2.085000]  End transfer stream 1 success.
+[2.085000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[2.090000]  Begin transfer stream 1.
+[2.116000]  Begin transfer stream 0.
+[2.162000]  Stream 1 get frame time interval: 72 ms
+[2.162000]  End transfer stream 1 success.
+[2.162000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[2.168000]  Begin transfer stream 1.
+[2.185000]  Stream 0 get frame time interval: 69 ms
+[2.185000]  End transfer stream 0 success.
+[2.185000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[2.238000]  Stream 1 get frame time interval: 70 ms
+[2.238000]  End transfer stream 1 success.
+[2.238000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[2.243000]  Begin transfer stream 1.
+[2.257000]  Begin transfer stream 0.
+[2.315000]  Stream 1 get frame time interval: 72 ms
+[2.315000]  End transfer stream 1 success.
+[2.315000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[2.320000]  Begin transfer stream 1.
+[2.326000]  Stream 0 get frame time interval: 69 ms
+[2.326000]  End transfer stream 0 success.
+[2.326000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[2.391000]  Stream 1 get frame time interval: 71 ms
+[2.391000]  End transfer stream 1 success.
+[2.391000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[2.396000]  Begin transfer stream 1.
+[2.397000]  Begin transfer stream 0.
+[2.466000]  Stream 0 get frame time interval: 69 ms
+[2.466000]  End transfer stream 0 success.
+[2.466000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[2.467000]  Stream 1 get frame time interval: 71 ms
+[2.467000]  End transfer stream 1 success.
+[2.467000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[2.472000]  Begin transfer stream 1.
+[2.537000]  Begin transfer stream 0.
+[2.544000]  Stream 1 get frame time interval: 72 ms
+[2.544000]  End transfer stream 1 success.
+[2.544000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[2.549000]  Begin transfer stream 1.
+[2.607000]  Stream 0 get frame time interval: 69 ms
+[2.607000]  End transfer stream 0 success.
+[2.607000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[2.620000]  Stream 1 get frame time interval: 71 ms
+[2.620000]  End transfer stream 1 success.
+[2.620000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[2.625000]  Begin transfer stream 1.
+[2.679000]  Begin transfer stream 0.
+[2.697000]  Stream 1 get frame time interval: 72 ms
+[2.697000]  End transfer stream 1 success.
+[2.697000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[2.701000]  Begin transfer stream 1.
+[2.748000]  Stream 0 get frame time interval: 69 ms
+[2.748000]  End transfer stream 0 success.
+[2.748000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[2.773000]  Stream 1 get frame time interval: 72 ms
+[2.773000]  End transfer stream 1 success.
+[2.773000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[2.778000]  Begin transfer stream 1.
+[2.820000]  Begin transfer stream 0.
+[2.850000]  Stream 1 get frame time interval: 72 ms
+[2.850000]  End transfer stream 1 success.
+[2.850000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[2.855000]  Begin transfer stream 1.
+[2.889000]  Stream 0 get frame time interval: 69 ms
+[2.889000]  End transfer stream 0 success.
+[2.889000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[2.925000]  Stream 1 get frame time interval: 70 ms
+[2.925000]  End transfer stream 1 success.
+[2.925000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[2.931000]  Begin transfer stream 1.
+[3.002000]  Stream 1 get frame time interval: 71 ms
+[3.002000]  End transfer stream 1 success.
+[3.002000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[3.073000]  Begin transfer stream 0.
+[3.078000]  Begin transfer stream 1.
+[3.081000]  Stream 1 get frame time interval: 3 ms
+[3.081000]  End transfer stream 1 success.
+[3.081000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[3.086000]  Begin transfer stream 1.
+[3.142000]  Stream 0 get frame time interval: 69 ms
+[3.142000]  End transfer stream 0 success.
+[3.142000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[3.154000]  Stream 1 get frame time interval: 68 ms
+[3.154000]  End transfer stream 1 success.
+[3.154000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[3.159000]  Begin transfer stream 1.
+[3.213000]  Begin transfer stream 0.
+[3.232000]  Stream 1 get frame time interval: 72 ms
+[3.232000]  End transfer stream 1 success.
+[3.232000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[3.236000]  Begin transfer stream 1.
+[3.283000]  Stream 0 get frame time interval: 70 ms
+[3.283000]  End transfer stream 0 success.
+[3.283000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[3.307000]  Stream 1 get frame time interval: 71 ms
+[3.307000]  End transfer stream 1 success.
+[3.307000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[3.313000]  Begin transfer stream 1.
+[3.354000]  Begin transfer stream 0.
+[3.384000]  Stream 1 get frame time interval: 71 ms
+[3.384000]  End transfer stream 1 success.
+[3.384000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[3.389000]  Begin transfer stream 1.
+[3.423000]  Stream 0 get frame time interval: 69 ms
+[3.423000]  End transfer stream 0 success.
+[3.423000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[3.460000]  Stream 1 get frame time interval: 71 ms
+[3.460000]  End transfer stream 1 success.
+[3.460000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[3.466000]  Begin transfer stream 1.
+[3.495000]  Begin transfer stream 0.
+[3.537000]  Stream 1 get frame time interval: 71 ms
+[3.537000]  End transfer stream 1 success.
+[3.537000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[3.541000]  Begin transfer stream 1.
+[3.564000]  Stream 0 get frame time interval: 69 ms
+[3.564000]  End transfer stream 0 success.
+[3.564000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[3.613000]  Stream 1 get frame time interval: 72 ms
+[3.613000]  End transfer stream 1 success.
+[3.613000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[3.617000]  Begin transfer stream 1.
+[3.635000]  Begin transfer stream 0.
+[3.690000]  Stream 1 get frame time interval: 72 ms
+[3.690000]  End transfer stream 1 success.
+[3.690000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[3.695000]  Begin transfer stream 1.
+[3.704000]  Stream 0 get frame time interval: 69 ms
+[3.704000]  End transfer stream 0 success.
+[3.704000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[3.765000]  Stream 1 get frame time interval: 70 ms
+[3.765000]  End transfer stream 1 success.
+[3.765000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[3.771000]  Begin transfer stream 1.
+[3.775000]  Begin transfer stream 0.
+[3.842000]  Stream 1 get frame time interval: 71 ms
+[3.842000]  End transfer stream 1 success.
+[3.842000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[3.844000]  Stream 0 get frame time interval: 69 ms
+[3.844000]  End transfer stream 0 success.
+[3.844000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[3.847000]  Begin transfer stream 1.
+[3.912000]  Begin transfer stream 0.
+[3.919000]  Stream 1 get frame time interval: 72 ms
+[3.919000]  End transfer stream 1 success.
+[3.919000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[3.923000]  Begin transfer stream 1.
+[3.982000]  Stream 0 get frame time interval: 70 ms
+[3.982000]  End transfer stream 0 success.
+[3.982000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[3.994000]  Stream 1 get frame time interval: 71 ms
+[3.994000]  End transfer stream 1 success.
+[3.994000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[3.999000]  Begin transfer stream 1.
+[4.052000]  Begin transfer stream 0.
+[4.072000]  Stream 1 get frame time interval: 73 ms
+[4.072000]  End transfer stream 1 success.
+[4.072000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[4.077000]  Begin transfer stream 1.
+[4.121000]  Stream 0 get frame time interval: 69 ms
+[4.121000]  End transfer stream 0 success.
+[4.121000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[4.147000]  Stream 1 get frame time interval: 70 ms
+[4.147000]  End transfer stream 1 success.
+[4.147000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[4.152000]  Begin transfer stream 1.
+[4.192000]  Begin transfer stream 0.
+[4.225000]  Stream 1 get frame time interval: 73 ms
+[4.225000]  End transfer stream 1 success.
+[4.225000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[4.230000]  Begin transfer stream 1.
+[4.262000]  Stream 0 get frame time interval: 70 ms
+[4.262000]  End transfer stream 0 success.
+[4.262000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[4.301000]  Stream 1 get frame time interval: 71 ms
+[4.301000]  End transfer stream 1 success.
+[4.301000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[4.306000]  Begin transfer stream 1.
+[4.332000]  Begin transfer stream 0.
+[4.378000]  Stream 1 get frame time interval: 72 ms
+[4.378000]  End transfer stream 1 success.
+[4.378000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[4.383000]  Begin transfer stream 1.
+[4.402000]  Stream 0 get frame time interval: 70 ms
+[4.402000]  End transfer stream 0 success.
+[4.402000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[4.454000]  Stream 1 get frame time interval: 71 ms
+[4.454000]  End transfer stream 1 success.
+[4.454000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[4.458000]  Begin transfer stream 1.
+[4.472000]  Begin transfer stream 0.
+[4.531000]  Stream 1 get frame time interval: 73 ms
+[4.531000]  End transfer stream 1 success.
+[4.531000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[4.536000]  Begin transfer stream 1.
+[4.541000]  Stream 0 get frame time interval: 69 ms
+[4.541000]  End transfer stream 0 success.
+[4.541000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[4.606000]  Stream 1 get frame time interval: 70 ms
+[4.606000]  End transfer stream 1 success.
+[4.606000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[4.611000]  Begin transfer stream 0.
+[4.612000]  Begin transfer stream 1.
+[4.680000]  Stream 0 get frame time interval: 69 ms
+[4.680000]  End transfer stream 0 success.
+[4.680000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[4.683000]  Stream 1 get frame time interval: 71 ms
+[4.683000]  End transfer stream 1 success.
+[4.683000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[4.687000]  Begin transfer stream 1.
+[4.749000]  Begin transfer stream 0.
+[4.760000]  Stream 1 get frame time interval: 73 ms
+[4.760000]  End transfer stream 1 success.
+[4.760000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[4.764000]  Begin transfer stream 1.
+[4.819000]  Stream 0 get frame time interval: 70 ms
+[4.819000]  End transfer stream 0 success.
+[4.819000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[4.835000]  Stream 1 get frame time interval: 71 ms
+[4.835000]  End transfer stream 1 success.
+[4.835000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[4.840000]  Begin transfer stream 1.
+[4.888000]  Begin transfer stream 0.
+[4.912000]  Stream 1 get frame time interval: 72 ms
+[4.912000]  End transfer stream 1 success.
+[4.912000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[4.917000]  Begin transfer stream 1.
+[4.957000]  Stream 0 get frame time interval: 69 ms
+[4.957000]  End transfer stream 0 success.
+[4.957000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[4.988000]  Stream 1 get frame time interval: 71 ms
+[4.988000]  End transfer stream 1 success.
+[4.988000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[4.993000]  Begin transfer stream 1.
+[5.028000]  Begin transfer stream 0.
+[5.065000]  Stream 1 get frame time interval: 72 ms
+[5.065000]  End transfer stream 1 success.
+[5.065000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[5.070000]  Begin transfer stream 1.
+[5.098000]  Stream 0 get frame time interval: 70 ms
+[5.098000]  End transfer stream 0 success.
+[5.098000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[5.141000]  Stream 1 get frame time interval: 71 ms
+[5.141000]  End transfer stream 1 success.
+[5.141000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[5.146000]  Begin transfer stream 1.
+[5.168000]  Begin transfer stream 0.
+[5.218000]  Stream 1 get frame time interval: 72 ms
+[5.218000]  End transfer stream 1 success.
+[5.218000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[5.223000]  Begin transfer stream 1.
+[5.238000]  Stream 0 get frame time interval: 70 ms
+[5.238000]  End transfer stream 0 success.
+[5.238000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[5.294000]  Stream 1 get frame time interval: 71 ms
+[5.294000]  End transfer stream 1 success.
+[5.294000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[5.299000]  Begin transfer stream 1.
+[5.308000]  Begin transfer stream 0.
+[5.371000]  Stream 1 get frame time interval: 72 ms
+[5.371000]  End transfer stream 1 success.
+[5.371000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[5.375000]  Begin transfer stream 1.
+[5.377000]  Stream 0 get frame time interval: 69 ms
+[5.377000]  End transfer stream 0 success.
+[5.377000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[5.446000]  Stream 1 get frame time interval: 71 ms
+[5.446000]  End transfer stream 1 success.
+[5.446000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[5.447000]  Begin transfer stream 0.
+[5.451000]  Begin transfer stream 1.
+[5.516000]  Stream 0 get frame time interval: 69 ms
+[5.516000]  End transfer stream 0 success.
+[5.516000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[5.522000]  Stream 1 get frame time interval: 71 ms
+[5.523000]  End transfer stream 1 success.
+[5.523000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[5.528000]  Begin transfer stream 1.
+[5.586000]  Begin transfer stream 0.
+[5.600000]  Stream 1 get frame time interval: 72 ms
+[5.600000]  End transfer stream 1 success.
+[5.600000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[5.604000]  Begin transfer stream 1.
+[5.655000]  Stream 0 get frame time interval: 69 ms
+[5.655000]  End transfer stream 0 success.
+[5.655000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[5.675000]  Stream 1 get frame time interval: 71 ms
+[5.675000]  End transfer stream 1 success.
+[5.675000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[5.680000]  Begin transfer stream 1.
+[5.725000]  Begin transfer stream 0.
+[5.753000]  Stream 1 get frame time interval: 73 ms
+[5.753000]  End transfer stream 1 success.
+[5.753000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[5.757000]  Begin transfer stream 1.
+[5.794000]  Stream 0 get frame time interval: 69 ms
+[5.794000]  End transfer stream 0 success.
+[5.794000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[5.828000]  Stream 1 get frame time interval: 71 ms
+[5.828000]  End transfer stream 1 success.
+[5.828000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[5.834000]  Begin transfer stream 1.
+[5.864000]  Begin transfer stream 0.
+[5.906000]  Stream 1 get frame time interval: 72 ms
+[5.906000]  End transfer stream 1 success.
+[5.906000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[5.910000]  Begin transfer stream 1.
+[5.934000]  Stream 0 get frame time interval: 69 ms
+[5.934000]  End transfer stream 0 success.
+[5.934000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[5.981000]  Stream 1 get frame time interval: 71 ms
+[5.981000]  End transfer stream 1 success.
+[5.981000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[5.985000]  Begin transfer stream 1.
+[6.004000]  Begin transfer stream 0.
+[6.058000]  Stream 1 get frame time interval: 73 ms
+[6.058000]  End transfer stream 1 success.
+[6.058000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[6.063000]  Begin transfer stream 1.
+[6.073000]  Stream 0 get frame time interval: 69 ms
+[6.073000]  End transfer stream 0 success.
+[6.073000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[6.133000]  Stream 1 get frame time interval: 70 ms
+[6.133000]  End transfer stream 1 success.
+[6.133000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[6.138000]  Begin transfer stream 1.
+[6.144000]  Begin transfer stream 0.
+[6.210000]  Stream 1 get frame time interval: 72 ms
+[6.210000]  End transfer stream 1 success.
+[6.210000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[6.213000]  Stream 0 get frame time interval: 69 ms
+[6.213000]  End transfer stream 0 success.
+[6.213000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[6.215000]  Begin transfer stream 1.
+[6.283000]  Begin transfer stream 0.
+[6.287000]  Stream 1 get frame time interval: 72 ms
+[6.287000]  End transfer stream 1 success.
+[6.287000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[6.291000]  Begin transfer stream 1.
+[6.352000]  Stream 0 get frame time interval: 69 ms
+[6.352000]  End transfer stream 0 success.
+[6.352000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[6.362000]  Stream 1 get frame time interval: 71 ms
+[6.363000]  End transfer stream 1 success.
+[6.363000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[6.367000]  Begin transfer stream 1.
+[6.421000]  Begin transfer stream 0.
+[6.440000]  Stream 1 get frame time interval: 73 ms
+[6.440000]  End transfer stream 1 success.
+[6.440000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[6.444000]  Begin transfer stream 1.
+[6.491000]  Stream 0 get frame time interval: 70 ms
+[6.491000]  End transfer stream 0 success.
+[6.491000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[6.515000]  Stream 1 get frame time interval: 71 ms
+[6.515000]  End transfer stream 1 success.
+[6.515000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[6.521000]  Begin transfer stream 1.
+[6.561000]  Begin transfer stream 0.
+[6.593000]  Stream 1 get frame time interval: 72 ms
+[6.593000]  End transfer stream 1 success.
+[6.593000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[6.597000]  Begin transfer stream 1.
+[6.631000]  Stream 0 get frame time interval: 69 ms
+[6.631000]  End transfer stream 0 success.
+[6.631000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[6.668000]  Stream 1 get frame time interval: 71 ms
+[6.668000]  End transfer stream 1 success.
+[6.668000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[6.673000]  Begin transfer stream 1.
+[6.702000]  Begin transfer stream 0.
+[6.745000]  Stream 1 get frame time interval: 72 ms
+[6.745000]  End transfer stream 1 success.
+[6.745000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[6.750000]  Begin transfer stream 1.
+[6.771000]  Stream 0 get frame time interval: 69 ms
+[6.771000]  End transfer stream 0 success.
+[6.771000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[6.821000]  Stream 1 get frame time interval: 71 ms
+[6.821000]  End transfer stream 1 success.
+[6.821000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[6.825000]  Begin transfer stream 1.
+[6.841000]  Begin transfer stream 0.
+[6.898000]  Stream 1 get frame time interval: 73 ms
+[6.898000]  End transfer stream 1 success.
+[6.898000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[6.902000]  Begin transfer stream 1.
+[6.910000]  Stream 0 get frame time interval: 69 ms
+[6.910000]  End transfer stream 0 success.
+[6.910000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[6.973000]  Stream 1 get frame time interval: 71 ms
+[6.973000]  End transfer stream 1 success.
+[6.973000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[6.978000]  Begin transfer stream 1.
+[6.981000]  Begin transfer stream 0.
+[7.050000]  Stream 0 get frame time interval: 69 ms
+[7.050000]  End transfer stream 0 success.
+[7.050000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[7.050000]  Stream 1 get frame time interval: 72 ms
+[7.050000]  End transfer stream 1 success.
+[7.050000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[7.055000]  Begin transfer stream 1.
+[7.119000]  Begin transfer stream 0.
+[7.127000]  Stream 1 get frame time interval: 72 ms
+[7.127000]  End transfer stream 1 success.
+[7.127000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[7.131000]  Begin transfer stream 1.
+[7.188000]  Stream 0 get frame time interval: 69 ms
+[7.188000]  End transfer stream 0 success.
+[7.188000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[7.202000]  Stream 1 get frame time interval: 71 ms
+[7.203000]  End transfer stream 1 success.
+[7.203000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[7.207000]  Begin transfer stream 1.
+[7.258000]  Begin transfer stream 0.
+[7.280000]  Stream 1 get frame time interval: 72 ms
+[7.280000]  End transfer stream 1 success.
+[7.280000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[7.284000]  Begin transfer stream 1.
+[7.327000]  Stream 0 get frame time interval: 69 ms
+[7.327000]  End transfer stream 0 success.
+[7.327000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[7.355000]  Stream 1 get frame time interval: 71 ms
+[7.355000]  End transfer stream 1 success.
+[7.355000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[7.360000]  Begin transfer stream 1.
+[7.397000]  Begin transfer stream 0.
+[7.432000]  Stream 1 get frame time interval: 72 ms
+[7.432000]  End transfer stream 1 success.
+[7.433000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[7.437000]  Begin transfer stream 1.
+[7.466000]  Stream 0 get frame time interval: 69 ms
+[7.466000]  End transfer stream 0 success.
+[7.466000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[7.508000]  Stream 1 get frame time interval: 71 ms
+[7.508000]  End transfer stream 1 success.
+[7.508000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[7.513000]  Begin transfer stream 1.
+[7.537000]  Begin transfer stream 0.
+[7.585000]  Stream 1 get frame time interval: 72 ms
+[7.585000]  End transfer stream 1 success.
+[7.585000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[7.590000]  Begin transfer stream 1.
+[7.606000]  Stream 0 get frame time interval: 69 ms
+[7.606000]  End transfer stream 0 success.
+[7.606000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[7.661000]  Stream 1 get frame time interval: 71 ms
+[7.661000]  End transfer stream 1 success.
+[7.661000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[7.666000]  Begin transfer stream 1.
+[7.677000]  Begin transfer stream 0.
+[7.738000]  Stream 1 get frame time interval: 72 ms
+[7.738000]  End transfer stream 1 success.
+[7.738000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[7.742000]  Begin transfer stream 1.
+[7.746000]  Stream 0 get frame time interval: 69 ms
+[7.746000]  End transfer stream 0 success.
+[7.746000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[7.813000]  Stream 1 get frame time interval: 71 ms
+[7.813000]  End transfer stream 1 success.
+[7.813000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[7.816000]  Begin transfer stream 0.
+[7.818000]  Begin transfer stream 1.
+[7.884000]  Stream 0 get frame time interval: 68 ms
+[7.884000]  End transfer stream 0 success.
+[7.884000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[7.890000]  Stream 1 get frame time interval: 72 ms
+[7.890000]  End transfer stream 1 success.
+[7.890000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[7.894000]  Begin transfer stream 1.
+[7.955000]  Begin transfer stream 0.
+[7.967000]  Stream 1 get frame time interval: 73 ms
+[7.967000]  End transfer stream 1 success.
+[7.967000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[7.971000]  Begin transfer stream 1.
+[8.024000]  Stream 0 get frame time interval: 69 ms
+[8.024000]  End transfer stream 0 success.
+[8.024000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[8.042000]  Stream 1 get frame time interval: 71 ms
+[8.042000]  End transfer stream 1 success.
+[8.042000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[8.048000]  Begin transfer stream 1.
+[8.096000]  Begin transfer stream 0.
+[8.120000]  Stream 1 get frame time interval: 72 ms
+[8.120000]  End transfer stream 1 success.
+[8.120000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[8.125000]  Begin transfer stream 1.
+[8.165000]  Stream 0 get frame time interval: 69 ms
+[8.165000]  End transfer stream 0 success.
+[8.165000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[8.195000]  Stream 1 get frame time interval: 70 ms
+[8.195000]  End transfer stream 1 success.
+[8.195000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[8.200000]  Begin transfer stream 1.
+[8.237000]  Begin transfer stream 0.
+[8.272000]  Stream 1 get frame time interval: 72 ms
+[8.272000]  End transfer stream 1 success.
+[8.272000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[8.277000]  Begin transfer stream 1.
+[8.306000]  Stream 0 get frame time interval: 69 ms
+[8.306000]  End transfer stream 0 success.
+[8.306000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[8.348000]  Stream 1 get frame time interval: 71 ms
+[8.348000]  End transfer stream 1 success.
+[8.348000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[8.353000]  Begin transfer stream 1.
+[8.376000]  Begin transfer stream 0.
+[8.425000]  Stream 1 get frame time interval: 72 ms
+[8.425000]  End transfer stream 1 success.
+[8.425000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[8.429000]  Begin transfer stream 1.
+[8.446000]  Stream 0 get frame time interval: 70 ms
+[8.446000]  End transfer stream 0 success.
+[8.446000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[8.500000]  Stream 1 get frame time interval: 71 ms
+[8.501000]  End transfer stream 1 success.
+[8.501000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[8.569000]  Begin transfer stream 1.
+[8.569000]  Begin transfer stream 0.
+[8.578000]  Stream 1 get frame time interval: 9 ms
+[8.578000]  End transfer stream 1 success.
+[8.578000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[8.582000]  Begin transfer stream 1.
+[8.638000]  Stream 0 get frame time interval: 69 ms
+[8.638000]  End transfer stream 0 success.
+[8.638000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[8.653000]  Stream 1 get frame time interval: 71 ms
+[8.653000]  End transfer stream 1 success.
+[8.653000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[8.658000]  Begin transfer stream 1.
+[8.707000]  Begin transfer stream 0.
+[8.730000]  Stream 1 get frame time interval: 72 ms
+[8.730000]  End transfer stream 1 success.
+[8.730000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[8.735000]  Begin transfer stream 1.
+[8.777000]  Stream 0 get frame time interval: 69 ms
+[8.777000]  End transfer stream 0 success.
+[8.777000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[8.806000]  Stream 1 get frame time interval: 71 ms
+[8.806000]  End transfer stream 1 success.
+[8.806000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[8.811000]  Begin transfer stream 1.
+[8.847000]  Begin transfer stream 0.
+[8.883000]  Stream 1 get frame time interval: 72 ms
+[8.883000]  End transfer stream 1 success.
+[8.883000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[8.887000]  Begin transfer stream 1.
+[8.917000]  Stream 0 get frame time interval: 70 ms
+[8.917000]  End transfer stream 0 success.
+[8.917000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[8.959000]  Stream 1 get frame time interval: 72 ms
+[8.959000]  End transfer stream 1 success.
+[8.959000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[8.964000]  Begin transfer stream 1.
+[8.987000]  Begin transfer stream 0.
+[9.036000]  Stream 1 get frame time interval: 72 ms
+[9.036000]  End transfer stream 1 success.
+[9.036000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[9.041000]  Begin transfer stream 1.
+[9.057000]  Stream 0 get frame time interval: 69 ms
+[9.057000]  End transfer stream 0 success.
+[9.057000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[9.111000]  Stream 1 get frame time interval: 70 ms
+[9.111000]  End transfer stream 1 success.
+[9.111000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[9.116000]  Begin transfer stream 1.
+[9.127000]  Begin transfer stream 0.
+[9.189000]  Stream 1 get frame time interval: 73 ms
+[9.189000]  End transfer stream 1 success.
+[9.189000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[9.194000]  Begin transfer stream 1.
+[9.196000]  Stream 0 get frame time interval: 69 ms
+[9.196000]  End transfer stream 0 success.
+[9.196000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[9.264000]  Stream 1 get frame time interval: 70 ms
+[9.264000]  End transfer stream 1 success.
+[9.264000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[9.265000]  Begin transfer stream 0.
+[9.270000]  Begin transfer stream 1.
+[9.334000]  Stream 0 get frame time interval: 69 ms
+[9.334000]  End transfer stream 0 success.
+[9.334000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[9.340000]  Stream 1 get frame time interval: 70 ms
+[9.340000]  End transfer stream 1 success.
+[9.341000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[9.345000]  Begin transfer stream 1.
+[9.405000]  Begin transfer stream 0.
+[9.418000]  Stream 1 get frame time interval: 73 ms
+[9.418000]  End transfer stream 1 success.
+[9.418000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[9.423000]  Begin transfer stream 1.
+[9.474000]  Stream 0 get frame time interval: 69 ms
+[9.474000]  End transfer stream 0 success.
+[9.474000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[9.493000]  Stream 1 get frame time interval: 70 ms
+[9.493000]  End transfer stream 1 success.
+[9.493000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[9.498000]  Begin transfer stream 1.
+[9.544000]  Begin transfer stream 0.
+[9.571000]  Stream 1 get frame time interval: 73 ms
+[9.571000]  End transfer stream 1 success.
+[9.571000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[9.575000]  Begin transfer stream 1.
+[9.614000]  Stream 0 get frame time interval: 70 ms
+[9.614000]  End transfer stream 0 success.
+[9.614000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[9.646000]  Stream 1 get frame time interval: 71 ms
+[9.646000]  End transfer stream 1 success.
+[9.646000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[9.651000]  Begin transfer stream 1.
+[9.684000]  Begin transfer stream 0.
+[9.723000]  Stream 1 get frame time interval: 72 ms
+[9.723000]  End transfer stream 1 success.
+[9.723000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[9.728000]  Begin transfer stream 1.
+[9.753000]  Stream 0 get frame time interval: 69 ms
+[9.753000]  End transfer stream 0 success.
+[9.753000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[9.799000]  Stream 1 get frame time interval: 71 ms
+[9.799000]  End transfer stream 1 success.
+[9.799000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[9.804000]  Begin transfer stream 1.
+[9.824000]  Begin transfer stream 0.
+[9.876000]  Stream 1 get frame time interval: 72 ms
+[9.876000]  End transfer stream 1 success.
+[9.876000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[9.880000]  Begin transfer stream 1.
+[9.894000]  Stream 0 get frame time interval: 70 ms
+[9.894000]  End transfer stream 0 success.
+[9.894000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[9.951000]  Stream 1 get frame time interval: 71 ms
+[9.951000]  End transfer stream 1 success.
+[9.951000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[9.956000]  Begin transfer stream 1.
+[9.964000]  Begin transfer stream 0.
+[10.029000]  Stream 1 get frame time interval: 73 ms
+[10.029000]  End transfer stream 1 success.
+[10.029000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[10.033000]  Stream 0 get frame time interval: 69 ms
+[10.033000]  End transfer stream 0 success.
+[10.033000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[10.033000]  Begin transfer stream 1.
+[10.102000]  Begin transfer stream 0.
+[10.105000]  Stream 1 get frame time interval: 72 ms
+[10.105000]  End transfer stream 1 success.
+[10.105000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[10.110000]  Begin transfer stream 1.
+[10.172000]  Stream 0 get frame time interval: 70 ms
+[10.172000]  End transfer stream 0 success.
+[10.172000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[10.180000]  Stream 1 get frame time interval: 70 ms
+[10.180000]  End transfer stream 1 success.
+[10.180000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[10.186000]  Begin transfer stream 1.
+[10.242000]  Begin transfer stream 0.
+[10.258000]  Stream 1 get frame time interval: 72 ms
+[10.258000]  End transfer stream 1 success.
+[10.258000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[10.262000]  Begin transfer stream 1.
+[10.312000]  Stream 0 get frame time interval: 70 ms
+[10.312000]  End transfer stream 0 success.
+[10.312000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[10.333000]  Stream 1 get frame time interval: 71 ms
+[10.333000]  End transfer stream 1 success.
+[10.333000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[10.339000]  Begin transfer stream 1.
+[10.384000]  Begin transfer stream 0.
+[10.410000]  Stream 1 get frame time interval: 71 ms
+[10.410000]  End transfer stream 1 success.
+[10.410000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[10.415000]  Begin transfer stream 1.
+[10.453000]  Stream 0 get frame time interval: 69 ms
+[10.453000]  End transfer stream 0 success.
+[10.453000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[10.486000]  Stream 1 get frame time interval: 71 ms
+[10.486000]  End transfer stream 1 success.
+[10.486000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[10.491000]  Begin transfer stream 1.
+[10.525000]  Begin transfer stream 0.
+[10.563000]  Stream 1 get frame time interval: 72 ms
+[10.563000]  End transfer stream 1 success.
+[10.563000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[10.568000]  Begin transfer stream 1.
+[10.594000]  Stream 0 get frame time interval: 69 ms
+[10.594000]  End transfer stream 0 success.
+[10.594000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00
+[10.639000]  Stream 1 get frame time interval: 70 ms
+[10.639000]  End transfer stream 1 success.
+[10.639000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[10.643000]  Begin transfer stream 1.
+[10.664000]  Begin transfer stream 0.
+[10.716000]  Stream 1 get frame time interval: 73 ms
+[10.716000]  End transfer stream 1 success.
+[10.716000]  Stream Type: Reduced  Width: 780  Height: 560  Timestamp: 0 Framerate: -1.#IND00
+[10.733000]  Stream 0 get frame time interval: 69 ms
+[10.733000]  End transfer stream 0 success.
+[10.733000]  Stream Type: Reduced  Width: 4672  Height: 3352  Timestamp: 0 Framerate: -1.#IND00

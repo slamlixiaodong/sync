@@ -1,0 +1,22 @@
+1. Run sirdev directly and execute command "pr";
+2. You will see a list of PLL registers read as "PLL Status Word X is XXXXXXXX.";
+3. For each PLL status word it represents a specific sensor.
+
+Sensor Map
+0	TOF
+1	RGB
+3	Iris1
+4	Iris2
+
+Data Bits
+31	DCM locked bit. Note that when the clock input is lost, this bit will also be high.
+30	DCM phase shift completed. 
+29	Align failed
+28	DCM phase shift overflow. This bit is reserved.
+27:24	DCM type. 0002: Advanced DCM controller
+23:16	IODelay tap count.
+15:0	Read-out of phase shift current value (for phase alignment control)
+
+Example data
+PLL Status Word 0 is 225E01D9	Bit [29] is 1, means the TOF sensor fails.
+PLL Status Word 3 is 827C0235	Bit [29] is 0, means the Iris1 sensor is OK.

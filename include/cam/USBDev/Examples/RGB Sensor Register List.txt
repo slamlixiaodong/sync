@@ -1,0 +1,18 @@
+0x3028	Global analog gain			(10~255)
+0x302A	Analog gain for Gr			(10~255)
+0x302C	Analog gain for R			(10~255)
+0x302E	Analog gain for B			(10~255)
+0x3030	Analog gain for Gb			(10~255)
+
+0x3032	Digital gain for Gr			(0x0100, 0x0200, 0x0300, 0x0400, 0x0500, 0x0600, 0x0700)
+0x3034	Digital gain for R			(0x0100, 0x0200, 0x0300, 0x0400, 0x0500, 0x0600, 0x0700)
+0x3036	Digital gain for B			(0x0100, 0x0200, 0x0300, 0x0400, 0x0500, 0x0600, 0x0700)
+0x3038	Digital gain for Gb			(0x0100, 0x0200, 0x0300, 0x0400, 0x0500, 0x0600, 0x0700)
+
+0x3012	Coarse integration			(0~Maximum allowed integration value)
+0x300A	Maximum allowed integration value
+
+Note:
+(1) Analog gain should not be set to <10.
+(2) Digital gain only has the specific 7 values.
+(3) If Coarse Integration is set to a value higher than maximum value, the effective sensor frame rate will decrease.

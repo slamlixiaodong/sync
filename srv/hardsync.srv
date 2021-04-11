@@ -1,0 +1,4 @@
+uint32 frequency
+uint16 tag
+---
+uint8 result

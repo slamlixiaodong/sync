@@ -1,0 +1,44 @@
+//	CAUTIOUS
+//	The data is organized as little endian format. However the write sequence is from MSB to LSB.
+//	For example, when write 0x1122 (2 bytes) to device, the input data is 0x00001122 (aligned
+//	to LSB). However the device will write 0x11 first, then 0x22.
+//	When write 0x12 (1 byte), the input data is 0x00000012. The device will write 0x12 only.
+
+//	Read 2 bytes from device. The read data format is little endian.
+UINT32 uParam[5];
+uParam[0] = 0x10;	//	IIC Slave Address
+uParam[1] = 0x301A;	//	Register Address
+uParam[2] = 0;
+uParam[3] = 2;		//	Number of address bytes (<= 2)
+uParam[4] = 2;		//	Number of data bytes (<= 2)
+DEV_STATUS status = DEV_GetDeviceParameter(0xFFFF, GET_IIC_REG, uParam);
+printf("Register data from 0x301A is 0x%04x\n", uParam[0]);
+
+//	Write 2 bytes to device. The write data format is little endian.
+uParam[0] = 0x10;	//	IIC Slave Address
+uParam[1] = 0x301A;	//	Register Address
+uParam[2] = 0x4567;	//	Register Data
+uParam[3] = 2;		//	Number of address bytes (<= 2)
+uParam[4] = 2;		//	Number of data bytes (<= 2)
+DEV_STATUS status = DEV_SetDeviceParameter(0xFFFF, SET_IIC_REG, uParam);
+printf("Write 0x4567 to register 0x301A.\n");
+
+//	Assert Global Register Hold
+//	Set this register before operating frame related registers.
+uParam[0] = 0x10;	//	IIC Slave Address
+uParam[1] = 0x0104;	//	Register Address
+uParam[2] = 0x01;	//	Register Data
+uParam[3] = 2;		//	Number of address bytes (<= 2)
+uParam[4] = 1;		//	Number of data bytes (<= 2)
+DEV_STATUS status = DEV_SetDeviceParameter(0xFFFF, SET_IIC_REG, uParam);
+printf("Global register hold asserted.\n");
+
+//	Deassert Global Register Hold
+//	Clear this register after operating frame related registers.
+uParam[0] = 0x10;	//	IIC Slave Address
+uParam[1] = 0x0104;	//	Register Address
+uParam[2] = 0x00;	//	Register Data
+uParam[3] = 2;		//	Number of address bytes (<= 2)
+uParam[4] = 1;		//	Number of data bytes (<= 2)
+DEV_STATUS status = DEV_SetDeviceParameter(0xFFFF, SET_IIC_REG, uParam);
+printf("Global register hold deasserted.\n");

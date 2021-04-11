@@ -1,0 +1,16 @@
+//	The resolution for MT9J003, MT9F002 can be set individually on different buses.
+//	To address the primary sensor (e.g. the face camera), SET_SENSOR_DYNA_MODE is used.
+//	To address sensors other than the primary one, SET_SENSOR_DYNAMODE_EXT may be used instead.
+UINT32 uParam[10];
+uParam[0] = MODE_NORMAL;	//	Normal mode is necessary.
+uParam[1] = X_START_POS;	//	Use prefered value. For MT9J003, it should be 32 + (3840 - WIDTH) / 2.
+uParam[2] = Y_START_POS;	//	Use prefered value. For MT9J003, it should be 8 + (2748 - HEIGHT) / 2.
+uParam[3] = WIDTH;		
+uParam[4] = HEIGHT;		
+uParam[5] = HBLANK;		//	Horizontal blank. Should be tested so that the frame is not corrupted.
+uParam[6] = VBLANK;		//	Vertical blank. Should be tested so that the frame rate is not reduced.
+uParam[7] = ROW_INTEGRATION;	//	Row integration. Should be set to the maximum (HEIGHT + VBLANK).
+uParam[8] = COL_INTEGRATION;	//	Col integration. Should be tested so that the frame is not corrupted.
+uParam[9] = SYSTEM_BUS_ID;	//	System Bus ID. Set to 1 for iris sensors to all current devices.
+DEV_SetDeviceParameter(0xFFFF, SET_SENSOR_DYNAMODE_EXT, uParam);
+

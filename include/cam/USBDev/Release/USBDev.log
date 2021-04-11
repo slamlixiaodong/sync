@@ -1,0 +1,35 @@
+﻿Build started 2018/1/9 10:01:06.
+     1>Project "H:\Project\USBCapture\SDK\USBDev\USBDev.vcxproj" on node 2 (build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>InitializeBuildStatus:
+         Creating "Release\USBDev.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /l"0x0409" /nologo /fo"Release\Resources.res" Resources.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\Build\Release\USBDev.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"USBDev.def" /MANIFEST /ManifestFile:"Release\USBDev.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"H:\Project\USBCapture\SDK\Build\Release\USBDev.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\Build\Release\USBDev.lib" /MACHINE:X86 /DLL Release\Resources.res
+         Release\Bayer2RGBA.obj
+         Release\FrameSync.obj
+         Release\Semaphore_WIN.obj
+         Release\Threads_WIN.obj
+         Release\RawStreamParser.obj
+         Release\USBDev.obj
+         Release\USBController.obj
+         Release\USBDevice_Crop.obj
+         Release\USBDevice_FrameRecv.obj
+         Release\USBDevice_GetFrame.obj
+         Release\CyAPI.obj
+         Release\USBIO_WIN.obj
+            Creating library ..\Build\Release\USBDev.lib and object ..\Build\Release\USBDev.exp
+         USBDev.vcxproj -> H:\Project\USBCapture\SDK\USBDev\..\Build\Release\USBDev.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"..\Build\Release\USBDev.dll;#2" /manifest Release\USBDev.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\USBDev.unsuccessfulbuild".
+         Touching "Release\USBDev.lastbuildstate".
+     1>Done Building Project "H:\Project\USBCapture\SDK\USBDev\USBDev.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.72
